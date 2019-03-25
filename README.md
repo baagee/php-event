@@ -4,7 +4,7 @@ PHP Event Library
 ### php事件定义与触发
 
 ### 安装
-php composer require php-event
+composer require baagee/php-event
 
 ### 使用示例：
 ```php 
